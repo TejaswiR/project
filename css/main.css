@@ -3,29 +3,14 @@
   width: 100%;
    }
 
- .rTableRow {     
-  clear: both; 
-   } 
 
- .rTableHead {    
-   background-color: #DDD;     
-   font-weight: bold; 
-    }
-
-  .rTableCell, .rTableHead {    
+  .rTableCell {    
     border: 1px solid #999999;    
     float: left;    
-    height: 50px;     
+    height: 45px;     
     overflow: hidden;     
-    padding: 2px 1.8%;    
-    width: 20%; 
+    padding: 0px 6.8%;    
+    width: 25%; 
   }
 
-  /*.rTable:after {     
-    visibility: hidden;     
-    display: block;     
-    font-size: 0;     
-    content: " ";     
-    clear: both;    
-    height: 0;
-  }*/
+ 
